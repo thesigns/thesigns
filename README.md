@@ -6,7 +6,7 @@
 - 🍐 The Universe is just a fruit bearing it's own fruits. That's my position on Universe. Yep, we live in a big fruit.
 - ❤️ Fruits can have feelings too. Don't be too hard on the Universe.
 - 💞️ I’m looking to collaborate on... well... I'm not sure. We will see.
-- 📫 If you want to contact me, please use the e-mail.
+- 📫 If you want to contact me, please use the e-mail: jwf.adamczyk@gmail.com
 
 <!---
 thesigns/thesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
