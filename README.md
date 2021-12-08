@@ -4,7 +4,7 @@
 - 💻 Currently I’m learning everything about frontend.
 - 🌱 I want to create my own pinhole camera and ketchup with ginger.
 - 💞️ I’m looking to collaborate on... well... I'm not sure. We will see.
-- 📫 This is my e-mail: **jwf.adamczyk (the at sign) gmail.com** and my website: **https://thesigns.icu/**
+- 📫 This is my e-mail: **jwf.adamczyk@gmail.com** and my website: **https://thesigns.icu/**
 - 🍐 The Universe is just a fruit bearing it's own fruits. That's my position on Universe. Yep, we live in a big fruit.
 - ❤️ Fruits can have feelings too. Don't be too hard on yourself, the Universe, or the others.
 
