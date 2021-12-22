@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Jakub Adamczyk.
 - 👀 I’m interested in many things, but right now I'm on a path to become a professional programmer.
 - 📜 I started programming as a teenager but it was just a casual hobby. I used to work as a graphic designer.
-- 💻 Currently I’m learning as much as I can about C#.
 - 👨‍💻 I know HTML, CSS and JavaScript.
+- 💻 Currently I’m learning as much as I can about C#.
 - 📫 If you want to contact me, please use the e-mail: jwf.adamczyk@gmail.com
 
 <!---
