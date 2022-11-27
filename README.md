@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Jakub Adamczyk.
+- 👋 Hi, my name is Jakub.
 - 🧒 I started programming as a teenager, but it was just a casual hobby until recently.
 - 📜 I have a bachelor degree in graphic design. I used to work as a graphic designer for many years.
 - ⏩ In 2022 I changed my career path and started working as a programmer.
