@@ -2,7 +2,7 @@
 - 🧒 I started programming as a teenager, but it was just a casual hobby until I was 40.
 - 📜 I have a bachelor degree in graphic design. I used to work as a graphic designer for many years.
 - ⏩ In 2022 I changed my career path and started working as a game developer.
-- 👨‍💻 I know JavaScript and C# pretty well, a bit of Python and a few other languages.
+- 👨‍💻 I know JavaScript and C# pretty well, a bit of Python, C and a few other languages.
 - ⚙️ I work as a programmer and level designer for a game development company.
 - 🐙 I'm interested in many things, from ancient philosophy to space exploration.
 - 📫 If you want to contact me, please use the e-mail: jwf.adamczyk@gmail.com
